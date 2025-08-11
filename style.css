@@ -672,3 +672,13 @@ header .search-bar-container label:hover{
     }
 }
 
+/* .video-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+} */
+
